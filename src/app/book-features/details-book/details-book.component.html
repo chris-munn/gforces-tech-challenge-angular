@@ -1,0 +1,14 @@
+<div class="row">
+  <div class="col-12" *ngIf="bookDetails">
+    <h1>{{bookDetails.volumeInfo.title}}</h1>
+    <div><h2> Rating </h2> {{bookDetails.volumeInfo.ratingsCount}}</div>
+    <div><h2>Categories</h2> {{bookDetails.volumeInfo.categories.join(' , ')}}</div>
+    <div ><h2>Description</h2> <div [innerHTML]="bookDetails.volumeInfo.description"></div></div>
+    <div><h2>Authors</h2> {{bookDetails.volumeInfo.authors.join(' , ')}}</div>
+    <div><h2>Published Date</h2> {{bookDetails.volumeInfo.publishedDate}}</div>
+    <div><h2>Publisher</h2> {{bookDetails.volumeInfo.publisher}}</div>
+    <div class="text-center pt-">
+      <a [routerLink]="'/books'" class="btn btn-primary rounded-0">Back</a>
+    </div>
+  </div>
+</div>
