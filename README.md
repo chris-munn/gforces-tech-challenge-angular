@@ -2,15 +2,12 @@
 
 ## Tech Challenge ([angular][6])
 
-This is a simple technical challenge to show us your ability using angular, there are some bugs which have been introduced to the project on purpose to test your setup knowledge, you will need to fix these first before the application will load. If you run into any issues, please contact Chris at [chris.munn@gforces.co.uk][1]. Spend as little or as long as you wish on it, but please try to complete as much as possible. Functionality is the main priority over design, however we will be checking over your use of CSS / Sass. You'll be asked to talk about your code in your second interview. 
-
-Please commit often! We would like to see your thought process as you work through the challenge.
+This is a simple technical challenge to show us your ability using angular. If you run into any issues, please contact Chris at [chris.munn@gforces.co.uk][1]. Spend as little or as long as you wish on it, but please try to complete as much as possible. Functionality is the main priority over design, however we will be checking over your use of CSS / Sass. You'll be asked to talk about your code in your second interview. 
 
 -------
 
 ### Base requirements
-* We'd like you to fork this repository, and create a branch called `feature/{your name}`
-* angular projects built at GForces use the [Airbnb JavaScript Style Guide][2] to keep code consistent and readable. The codebase within this project has linting errors, and these will need to be resolved so that you can continue development.
+* Angular projects built at GForces use the [Airbnb JavaScript Style Guide][2] to keep code consistent and readable. The codebase within this project has linting errors, and these will need to be resolved so that you can continue development.
 * We would then like you to set up the [Angular Router][3], create a `BookView` component and apply it to the route `/books`
 * Using [Angular Http][4] (or another library if you'd prefer), we'd like you to grab and display a list of 40 Stephen King novels using the [Google Books API][5].
 * Use a responsive design approach to make the layout work on a range of screen sizes
@@ -45,7 +42,7 @@ All of the above requirements, plus:
 
 -------
 
-When you feel like you've completed the challenge, please submit a PR to master, accompanied by an email to Chris at [chris.munn@gforces.co.uk][1] letting him know that you've finished.
+When you feel like you've completed the challenge, please email the zip file  (please do not include the node_modules folder) to [chris.munn@gforces.co.uk][1] with the Email Subject: `GForces Tech Challenge: {YOUR_NAME}` letting him know that you've finished.
 
 [logo]: src/assets/logo.svg
 [1]: mailto:chris.munn@gforces.co.uk
