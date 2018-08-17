@@ -2,7 +2,7 @@
 
 ## Tech Challenge ([angular][6])
 
-This is a simple technical challenge to show us your ability using angular. If you run into any issues, please contact Chris at [chris.munn@gforces.co.uk][1]. Spend as little or as long as you wish on it, but please try to complete as much as possible. Functionality is the main priority over design, however we will be checking over your use of CSS / Sass. You'll be asked to talk about your code in your second interview. 
+This is a simple technical challenge to show us your ability using angular. If you run into any issues, please contact Chris at [chris.munn@gforces.co.uk][1]. Spend as little or as long as you wish on it, but please try to complete as much as possible. Functionality is the main priority over design, however we will be checking over your use of CSS / Sass. You'll be asked to talk about your code in your second interview. Please submit your work via a `zip file` (exclude node_modules) to [chris.munn@gforces.co.uk][1].
 
 -------
 
